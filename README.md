@@ -78,8 +78,8 @@ http://localhost:3000
 ---
 
 ## Screenshots
-![Screenshot 1](ScreenShot/ScreenShot1.png)
-![Screenshot 2](ScreenShot/ScreenShot2.png)
+![Screenshot 1](ScreenShot1.png)
+![Screenshot 2](ScreenShot2.png)
 ...
  
 
