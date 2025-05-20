@@ -48,13 +48,13 @@ This project helps farmers by using IoT and machine learning to decide how much 
 
 ---
 
-## Datasets
+## Dataset Description
 
-1. IrrigationScheduling
+**1. IrrigationScheduling.csv**
 
 It includes data like id, temperature, pressure, altitude, soilmiosture, note, status, class, date, and time. The model learns from this data to predict the right field status.
 
-2. TestData
+**2. TestData.csv**
 
 It includes data like id, temperature, pressure, altitude, soilmiosture, note, status, date, and time.
 
@@ -62,21 +62,21 @@ It includes data like id, temperature, pressure, altitude, soilmiosture, note, s
 
 ## Steps to Run the Project
 
-1. Install the required libraries:
+**1. Install the required libraries:**
 
    ```bash
    pip install -r requirements.txt
   ```
 
-2. Run the application to get below screen:
+**2. Run the application to get below screen:***
 
-   On Windows(Double click on ‘run.bat’ file):
+   **On Windows(Double click on ‘run.bat’ file):**
 
    ```bash
    run.bat
    ```
 
-   Or Manually(Run in terminal):
+   **Or Manually(Run in terminal):**
 
    ```bash
    python SmartIrrigation.py
