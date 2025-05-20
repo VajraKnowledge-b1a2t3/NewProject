@@ -38,11 +38,12 @@ This project helps farmers by using IoT and machine learning to decide how much 
 │   ├── ScreenShot6.png
 │   ├── ScreenShot7.png
 │   ├── ScreenShot8.png
-│   ├── ScreenShot9.png
+│   └── ScreenShot9.png
 ├── Agent.py
 ├── Environment.py
 ├── requirements.txt
-├── SmartIrrigation.py
+├── run.bat
+└── SmartIrrigation.py
 ```
 
 ---
